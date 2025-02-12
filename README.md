@@ -22,7 +22,7 @@ This project provides a Flask-based API to fetch transcripts for YouTube videos.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/yt-transcript-generator.git
+    git clone https://github.com/yourusername/yt-transcript-generator.git](https://github.com/redmoon0x/redmoon-transcript-api.git
     cd yt-transcript-generator
     ```
 
